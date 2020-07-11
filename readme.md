@@ -1,4 +1,4 @@
-# bigrat.download
+# bigrat.monster
 a picture of big rat
 
 ### Copyright info
