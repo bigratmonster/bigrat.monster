@@ -2,57 +2,90 @@
 
 a picture of big rat
 
-## Copyright info
+## Host this website yourself
 
-### Big Rat
+Please follow the instructions in [usage.md].
+
+## Copyright Information
+
+If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
+Please send an email to [sonothing.emailme@gmail.com][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
+
+## Image Index
+
+### By the repository owner
+
+#### Big Rat
 
 I've tried to find the source of this picture thorugh TinEye, but the oldest result is from a Twitter account with way too much NSFW tweets for me to scroll through without dying.  
-Please contact me at [rico@ricoip.com](mailto:rico@ricoip.com) to properly credit the owner.
 
-### Stop asking
+#### Stop asking for Impact 1.16
 
-Video by Noisestorm. Edited by [BadDev](https://github.com/StijnSimons)
+Video by Noisestorm. Edited by [BadDev]
 
-### Garpub
-from the garfield show
+### By a contributor
 
-### Holyc
+#### Garpub
 
-terry a davis just jiving and grooving
+*by [humboldt123]*
+From the Garfield show
 
-### Ratpog
+#### Holyc
 
+*by [humboldt123]*
+Terry a davis just jiving and grooving
+
+#### Ratpog
+
+*by [humboldt123]*
 Cant find source owo
 
-### Widecatflushed
+#### Widecatflushed
 
-an edit of the cat/flushed twitter emoji
+*by [humboldt123]*
+An edit of the cat/flushed twitter emoji
 
-### Yandev and Umad
+#### Yandev and Umad
 
+*by [humboldt123]*
 Both the likeness of YandereDev
 
-### Noanime and elhuevo
+#### Noanime and elhuevo
 
-cant find source owo
+*by [humboldt123]*
+Cant find source owo
 
-### unknown.png
+#### unknown.png
 
-An image of Brady saying that someones opinion doesnt matter on discord
+*by [humboldt123]*
+An image of [Brady] saying that (someone that shall not be named)'s opinion doesnt matter on Discord
 
-### Monkeys/
-all of the gifs can be found on tenor with the exception of the video which is found on imgur
+#### /monkeys/ Folder
+
+*by [humboldt123]*
+All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
+
+```diff
+https://i.imgur.com/CwQRLGK.mp4
+https://tenor.com/view/monkey-boat-driving-speed-gif-16514438
+https://tenor.com/view/monkey-lick-yum-delicious-hot-gif-9727684
+https://tenor.com/view/monkey-dabke-gif-3523468
+https://tenor.com/view/monkey-gif-7222281
+https://tenor.com/view/monkey-callme-gif-4577639
+https://tenor.com/view/monkey-haircut-gif-9838558
+https://tenor.com/view/curious-what-monkey-chimp-walking-gif-10714369
+https://tenor.com/view/funny-gif-10879973
+https://media.discordapp.net/attachments/696038770558107679/700191886681309214/ShallowUnhealthyDeermouse-size_restricted.gif
+https://tenor.com/view/monkey-with-money-happy-withmoney-swag-dollars-more-money-gif-14116367
+https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Monkey_Orange.gif"
 ```
-    "https://i.imgur.com/CwQRLGK.mp4",
-    "https://tenor.com/view/monkey-boat-driving-speed-gif-16514438",
-    "https://tenor.com/view/monkey-lick-yum-delicious-hot-gif-9727684",
-    "https://tenor.com/view/monkey-dabke-gif-3523468",
-    "https://tenor.com/view/monkey-gif-7222281",
-    "https://tenor.com/view/monkey-callme-gif-4577639",
-    "https://tenor.com/view/monkey-haircut-gif-9838558",
-    "https://tenor.com/view/curious-what-monkey-chimp-walking-gif-10714369",
-    "https://tenor.com/view/funny-gif-10879973",
-    "https://media.discordapp.net/attachments/696038770558107679/700191886681309214/ShallowUnhealthyDeermouse-size_restricted.gif",
-    "https://tenor.com/view/monkey-with-money-happy-withmoney-swag-dollars-more-money-gif-14116367",
-    "https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Monkey_Orange.gif"
-    ```
+
+<!-- Links in main parts -->
+[usage.md]: usage.md
+[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright%20Issue
+[issue]: https://github.com/ricoip/bigrat.monster/issues/new/choose
+<!-- Users in credits -->
+[BadDev]: https://github.com/StijnSimons
+[Brady]: https://github.com/ZeroMemes
+<!-- Contributors -->
+[humboldt123]: https://github.com/humboldt123
