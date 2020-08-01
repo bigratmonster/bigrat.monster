@@ -4,7 +4,7 @@
 
 bigrat.monster is created just for a joke. The domain is going to expire on 2021-07-11 unless someone pays me to continue the website.
 
-## Some thing you need to know
+## Some things you need to know
 
 The `/fonts` folder is not included in the repository due to [me][ricoip] being scared of copyright takedowns.
 
