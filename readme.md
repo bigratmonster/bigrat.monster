@@ -60,7 +60,7 @@ Cant find source owo
 *by [humboldt123]*  
 An image of [Brady] saying that (someone that shall not be named)'s opinion doesnt matter on Discord
 
-### telegeam_video
+#### telegram_video
 
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
