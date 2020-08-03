@@ -27,46 +27,47 @@ Video by Noisestorm. Edited by [BadDev]
 
 #### Garpub
 
-*by [humboldt123]*
+*by [humboldt123]*  
 From the Garfield show
 
 #### Holyc
 
-*by [humboldt123]*
+*by [humboldt123]*  
 Terry a davis just jiving and grooving
 
 #### Ratpog
 
-*by [humboldt123]*
+*by [humboldt123]*  
 Cant find source owo
 
 #### Widecatflushed
 
-*by [humboldt123]*
+*by [humboldt123]*  
 An edit of the cat/flushed twitter emoji
 
 #### Yandev and Umad
 
-*by [humboldt123]*
+*by [humboldt123]*  
 Both the likeness of YandereDev
 
 #### Noanime and elhuevo
 
-*by [humboldt123]*
+*by [humboldt123]*  
 Cant find source owo
 
 #### unknown.png
 
-*by [humboldt123]*
+*by [humboldt123]*  
 An image of [Brady] saying that (someone that shall not be named)'s opinion doesnt matter on Discord
 
 ### telegeam_video
 
+*by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
 #### /monkeys/ Folder
 
-*by [humboldt123]*
+*by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
 
 ```diff
