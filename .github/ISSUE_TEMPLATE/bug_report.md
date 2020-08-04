@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: "Help us squash bugs \U0001F41B"
+about: "Help me squash bugs \U0001F41B"
 title: ''
 labels: bug
 assignees: ''
