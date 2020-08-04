@@ -65,6 +65,16 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
+#### deepfakes
+
+*by [humboldt123]*  
+deepfakes by skrub using first order model https://github.com/AliaksandrSiarohin/first-order-model
+
+#### cleanrat
+
+*by [humboldt123]*  
+from tenor: https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470?@everyone
+
 #### /monkeys/ Folder
 
 *by [humboldt123]*  
