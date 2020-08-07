@@ -2,6 +2,12 @@
 
 a picture of big rat
 
+# merch.bigrat.monster
+
+The website is owned and operated by [humboldt123].
+
+Please [contact him][email-skrub] for any content removals.
+
 ## Host this website yourself
 
 Please follow the instructions in [usage.md].
@@ -98,6 +104,7 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 <!-- Links in main parts -->
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright%20Issue
+[email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/ricoip/bigrat.monster/issues/new/choose
 <!-- Users in credits -->
 [BadDev]: https://github.com/StijnSimons
