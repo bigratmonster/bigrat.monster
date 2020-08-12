@@ -88,7 +88,7 @@ deepfakes by skrub using first order model https://github.com/AliaksandrSiarohin
 *by [humboldt123]*  
 from tenor: https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470?@everyone
 
-#### /monkeys/ Folder
+#### monkeys/ Folder
 
 *by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
