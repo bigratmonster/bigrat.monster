@@ -2,10 +2,9 @@
 
 a picture of big rat
 
-# ⚠ Direct link to media files not working?
+## ⚠ Direct link to media files not working?
 
-The folder structure was updated and as a result, all old links are replaced with a "404" image.  
-The image will disappear in a week and will return the default nginx 404 webpage.
+The folder structure was updated and as a result, all old links are replaced with the default nginx 404 webpage.
 
 Please use the new link(s) going foward.
 
