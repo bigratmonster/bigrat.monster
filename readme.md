@@ -2,13 +2,13 @@
 
 a picture of big rat
 
-## ⚠ Direct link to media files not working?
+## ⚠ Direct link to media files not working
 
 The folder structure was updated and as a result, all old links are replaced with the default nginx 404 webpage.
 
 Please use the new link(s) going foward.
 
-# merch.bigrat.monster
+## merch.bigrat.monster
 
 The website is owned and operated by [humboldt123].
 
@@ -21,7 +21,7 @@ Please follow the instructions in [usage.md].
 ## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
-Please send an email to [sonothing.emailme@gmail.com][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
+Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
 
 ## Image Index
 
@@ -77,15 +77,15 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
-#### deepfakes
+#### deepfakes/ folder
 
 *by [humboldt123]*  
-deepfakes by skrub using first order model https://github.com/AliaksandrSiarohin/first-order-model
+deepfakes by skrub using [first order model][first-order-model]
 
 #### cleanrat
 
 *by [humboldt123]*  
-from tenor: https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470?@everyone
+from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470>
 
 #### monkeys/ Folder
 
@@ -112,8 +112,11 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright%20Issue
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/ricoip/bigrat.monster/issues/new/choose
+
 <!-- Users in credits -->
 [BadDev]: https://github.com/StijnSimons
 [Brady]: https://github.com/ZeroMemes
+[first-order-model]: https://github.com/AliaksandrSiarohin/first-order-model
+
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123
