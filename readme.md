@@ -67,6 +67,16 @@ Both the likeness of YandereDev
 *by [humboldt123]*  
 Cant find source owo
 
+#### Rat Equality
+
+*by [angie]*  
+epic edit made by undead luciel
+
+#### Rat Rights
+
+*by [angie]*  
+:3 made by undead luciel
+
 #### unknown.png
 
 *by [humboldt123]*  
@@ -117,3 +127,4 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 [Brady]: https://github.com/ZeroMemes
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123
+[angie]: https://github.com/undeadluciel
