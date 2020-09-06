@@ -11,10 +11,10 @@
 @import "/fonts/source-code-pro/source-code-pro.css";
 
 body {
-    /*If there is any text in the page, the page font defaults to Source Sans Pro*/
+    /*If there is any text in the page, the font defaults to Source Sans Pro*/
     font-family: "Source Sans Pro", sans-serif;
 }
 code {
-    /*If there is any code in the page, the font will be Source Sans Pro*/
+    /*If there is any code in the page, the font will be Source Code Pro*/
     font-family: "Source Code Pro", monospace;
 }
