@@ -1,4 +1,6 @@
 # bigrat.monster
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fricoip%2Fbigrat.monster.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fricoip%2Fbigrat.monster?ref=badge_shield)
+
 
 a picture of big rat
 
@@ -131,3 +133,7 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123
 [angie]: https://github.com/undeadluciel
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fricoip%2Fbigrat.monster.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fricoip%2Fbigrat.monster?ref=badge_large)
