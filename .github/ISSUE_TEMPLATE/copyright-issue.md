@@ -2,7 +2,7 @@
 name: Copyright issue
 about: I'm sorry that we used your content. Please use this templete if you would
   like to remove them.
-title: "[COPYRIGHT]"
+title: "[COPYRIGHT] Copyright Request"
 labels: "[IMPORTANT] Copyright, help wanted"
 assignees: ricoip
 

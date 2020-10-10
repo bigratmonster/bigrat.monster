@@ -2,11 +2,8 @@
 
 a picture of big rat
 
-## ⚠ Direct link to media files not working
-
-The folder structure was updated and as a result, all old links are replaced with the default nginx 404 webpage.
-
-Please use the new link(s) going foward.
+**If are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
+I would like to have your approval for us to host your image and to sell merch which are inspired (not your image) by the rat.
 
 ## merch.bigrat.monster
 
@@ -29,13 +26,19 @@ Please [contact me][email-copyright] or open an [issue] (select "Copyright issue
 
 #### Big Rat
 
-I've tried to find the source of this picture thorugh TinEye, but the oldest result is from a Twitter account with way too much NSFW tweets for me to scroll through without dying.  
+> I first saw it in a screenshot of a 4chan post, and the person who took the screenshot posted the big rat image. That is the one on the website right now.  
+I have tried to find the source of the image through TinEye and Google Image Search, but all of them turned out to be from posts that doesn't look like they're the original.  
+If you are the owner of the big rat image please [contact me][email-copyright].
+
+-- Rico
 
 #### Stop asking for Impact 1.16
 
-Video by Noisestorm. Edited by [BadDev]
+Video by [Noisestorm]. Edited by [BadDev].
 
 ### By a contributor
+
+*The description of the images below are written by the uploader.*
 
 #### Garpub
 
@@ -118,8 +121,9 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 ```
 
 <!-- Links in main parts -->
+[big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
-[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright%20Issue
+[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/ricoip/bigrat.monster/issues/new/choose
 
@@ -127,6 +131,7 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 [BadDev]: https://github.com/StijnSimons
 [Brady]: https://github.com/ZeroMemes
 [first-order-model]: https://github.com/AliaksandrSiarohin/first-order-model
+[Noisestorm]: https://www.youtube.com/user/EoinOBroinMusic
 
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123

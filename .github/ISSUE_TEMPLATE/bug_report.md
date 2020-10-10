@@ -3,7 +3,7 @@ name: Bug report
 about: "Help me squash bugs \U0001F41B"
 title: ''
 labels: bug
-assignees: ''
+assignees: 'ricoip'
 
 ---
 
@@ -12,6 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
