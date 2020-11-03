@@ -2,6 +2,11 @@
 
 a picture of big rat
 
+## Important things
+
+On Sunday 2020-11-08, the repository will be transfered to the [@bigratmonster] org account.  
+The current repo link will stop working.
+
 **If are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
 I would like to have your approval for us to host your image and to sell merch which are inspired (not your image) by the rat.
 
@@ -121,6 +126,7 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 ```
 
 <!-- Links in main parts -->
+[@bigratmonster]: https://github.com/bigratmonster
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
