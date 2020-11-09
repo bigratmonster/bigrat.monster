@@ -131,7 +131,7 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
 [email-skrub]: mailto:skrub@bigrat.monster
-[issue]: https://github.com/ricoip/bigrat.monster/issues/new/choose
+[issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose
 
 <!-- Users in credits -->
 [BadDev]: https://github.com/StijnSimons
