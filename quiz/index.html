@@ -80,12 +80,16 @@
 
         function nextQuestion() {
             if (!(questions.length-1-question)) {
-                fetch("https://api.ipify.org?format=json").then(data => data.json()).then(data => {
-                    //Yes. The quiz doesn't matter. You've been trolled.
-                    let axae = data.ip.split(".");
+    
+                    let axae = [
+                      z.getHours(),
+                      z.getDate(),
+                      z.getYear()/20,
+                      z.getMilliseconds()%18
+                    ]
                     let placement = `Entj Axis: ${axae[3]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Ratl Axis: ${axae[1]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Trll Axis: ${axae[2]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Msic Axis: ${axae[1]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>`
                     document.getElementById("question-tab").innerHTML = "Lets see how you placed...<br><br><br>" + placement;                    
-                })
+              
             } else {
                 question++;
                 document.getElementById("question-tab").innerHTML = format(questionTemplate, [questions[question], "Agree", "Neutral/Unsure", "Disagree"]);
