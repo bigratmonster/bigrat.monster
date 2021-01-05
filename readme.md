@@ -5,12 +5,12 @@ a picture of big rat
 ## Important things
 
 **If are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
-I would like to have your approval for us to host your image and to sell merch [which are inspired (not your image) by the rat][actual-merch-site].
+I would like to have your approval for us to host your image.
 
 ## [merch.bigrat.monster]
 
 The website is owned and operated by [humboldt123].  
-That website is a joke, [visit the real store][actual-merch-site].
+That website is a joke, the merch store has closed.
 
 Please [contact him][email-skrub] for any content removals.
 
@@ -125,7 +125,6 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster
-[actual-merch-site]: https://teespring.com/stores/bigrat
 [merch.bigrat.monster]: https://merch.bigrat.monster
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
