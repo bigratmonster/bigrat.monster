@@ -93,7 +93,7 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
-### dream_chungus
+#### dream_chungus
 
 *by [bigratenthusiast]*
 An image of big chungus with dreams face
