@@ -93,6 +93,11 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
+### dream_chungus
+
+*by [bigratenthusiast]*
+An image of big chungus with dreams face
+
 #### deepfakes/ folder
 
 *by [humboldt123]*  
@@ -141,3 +146,4 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123
 [angie]: https://github.com/undeadluciel
+[bigratenthusiast]: https://github.com/bigratenthusiast
