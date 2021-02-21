@@ -4,7 +4,7 @@ a picture of big rat
 
 ## Important things
 
-**If are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
+**If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
 I would like to have your approval for us to host your image.
 
 ## [merch.bigrat.monster]
