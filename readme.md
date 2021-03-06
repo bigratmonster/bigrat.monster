@@ -2,15 +2,18 @@
 
 a picture of big rat
 
-## Important things
+## Copyright Information
 
 **If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
-I would like to have your approval for us to host your image.
+I would like to have your approval for us to coutinue to host your image. 
 
-## [merch.bigrat.monster]
+If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
+Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
+
+# [merch.bigrat.monster]
 
 The website is owned and operated by [humboldt123].  
-That website is a joke, the merch store has closed.
+That website is a joke, the merch store has closed (for now).
 
 Please [contact him][email-skrub] for any content removals.
 
@@ -18,16 +21,12 @@ Please [contact him][email-skrub] for any content removals.
 
 Please follow the instructions in [usage.md].
 
-## Copyright Information
 
-If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
-Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
+# Main site: Image Index
 
-## Image Index
+## By the repository owner
 
-### By the repository owner
-
-#### Big Rat
+### Big Rat
 
 > I first saw it in a screenshot of a 4chan post, and the person who took the screenshot posted the big rat image. That is the one on the website right now.  
 I have tried to find the source of the image through TinEye and Google Image Search, but all of them turned out to be from posts that doesn't look like they're the original.  
@@ -35,80 +34,80 @@ If you are the owner of the big rat image please [contact me][email-copyright].
 
 -- Rico
 
-#### Stop asking for Impact 1.16
+### Stop asking for Impact 1.16
 
 Video by [Noisestorm]. Edited by [BadDev].
 
-### By a contributor
+## By a contributor
 
 *The description of the images below are written by the uploader.*
 
-#### Garpub
+### Garpub
 
 *by [humboldt123]*  
 From the Garfield show
 
-#### Holyc
+### Holyc
 
 *by [humboldt123]*  
 Terry a davis just jiving and grooving
 
-#### Ratpog
+### Ratpog
 
 *by [humboldt123]*  
 Cant find source owo
 
-#### Widecatflushed
+### Widecatflushed
 
 *by [humboldt123]*  
 An edit of the cat/flushed twitter emoji
 
-#### Yandev and Umad
+### Yandev and Umad
 
 *by [humboldt123]*  
 Both the likeness of YandereDev
 
-#### Noanime and elhuevo
+### Noanime and elhuevo
 
 *by [humboldt123]*  
 Cant find source owo
 
-#### Rat Equality
+### Rat Equality
 
 *by [angie]*  
 epic edit made by undead luciel
 
-#### Rat Rights
+### Rat Rights
 
 *by [angie]*  
 :3 made by undead luciel
 
-#### unknown.png
+### unknown.png
 
 *by [humboldt123]*  
 An image of [Brady] saying that (someone that shall not be named)'s opinion doesnt matter on Discord
 
-#### telegram_video
+### telegram_video
 
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
 
-#### dream_chungus
+### dream_chungus
 
 *by [bigratenthusiast]*
 An image of big chungus with dreams face
 
-#### deepfakes/ folder
+### deepfakes/ folder
 
 *by [humboldt123]*  
 deepfakes by skrub using [first order model]
 
-#### cleanrat
+### cleanrat
 
 *by [humboldt123]*  
 from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470>
 
-#### monkeys/ Folder
+### monkeys/ Folder
 
 *by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
