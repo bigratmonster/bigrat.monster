@@ -22,17 +22,14 @@ Please [contact him][email-skrub] for any content removals.
 Please follow the instructions in [usage.md].
 
 
-# Main site: Image Index
+# [bigrat.monster]: Image Index
 
 ## By the repository owner
 
 ### Big Rat
 
-> I first saw it in a screenshot of a 4chan post, and the person who took the screenshot posted the big rat image. That is the one on the website right now.  
-I have tried to find the source of the image through TinEye and Google Image Search, but all of them turned out to be from posts that doesn't look like they're the original.  
-If you are the owner of the big rat image please [contact me][email-copyright].
-
--- Rico
+The big rat image falls under fair use, and otherwise is all rights reserved by the original copyright holder. Attempts have been made to find this person, but no result has been found. 
+If you are the original author or copyright holder, please [contact me][email-copyright].
 
 ### Stop asking for Impact 1.16
 
