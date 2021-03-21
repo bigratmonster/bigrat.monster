@@ -28,7 +28,7 @@ Please follow the instructions in [usage.md].
 
 ### Big Rat
 
-The big rat image falls under fair use, and otherwise is all rights reserved by the original copyright holder. Attempts have been made to find this person, but no result has been found. 
+> Attempts have been made to find the copyright owner, but no result has been found. 
 If you are the original author or copyright holder, please [contact me][email-copyright].
 
 ### Stop asking for Impact 1.16
