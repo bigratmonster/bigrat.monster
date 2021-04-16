@@ -1,5 +1,5 @@
 const chromaInterval = 100;
-
+const chromaMaxChange = 1;
 let rat = document.getElementById("rat");
 let hue = 0;
 
@@ -11,12 +11,13 @@ function getRandomInt(min, max) {
 }
 
 function updateRat() {
-  rat.style.filter = `hue-rotate(${hue}deg)`
-  rat.style["-webkit-filter"] = `hue-rotate(${hue}deg)`
+  rat.style.filter = `hue-rotate(${hue}deg)`;
+  rat.style["-webkit-filter"] = `hue-rotate(${hue}deg)`;
 }
 
 function doChroma() {
-  hue = getRandomInt(0, 361);
+  let h = getRandomInt(-1 * chromaMaxChange, 1 * chromaMaxChange);
+  hue += h;
   updateRat();
 }
 
