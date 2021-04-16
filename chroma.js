@@ -18,6 +18,12 @@ function updateRat() {
 function doChroma() {
   let h = getRandomInt(-1 * chromaMaxChange, 1 * chromaMaxChange);
   hue += h;
+  if (hue > 360) {
+    hue-=360
+  }
+  else if (hue < 0) {
+    hue+=360
+  }
   updateRat();
 }
 
