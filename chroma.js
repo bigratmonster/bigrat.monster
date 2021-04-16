@@ -1,4 +1,4 @@
-const chromaInterval = 100;
+const chromaInterval = 10;
 const chromaMaxChange = 1;
 let rat = document.getElementById("rat");
 let hue = 0;
