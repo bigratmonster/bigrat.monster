@@ -26,4 +26,4 @@ function doColor() {
   updateRat();
 }
 
-setInterval(doColor, colorInterval);
+setInterval(doColor, hueInterval);
