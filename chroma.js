@@ -1,4 +1,4 @@
-const chromaInterval = 1000
+const chromaInterval = 1000;
 
 let rat = document.getElementById("rat");
 let r = 0;
@@ -13,7 +13,7 @@ function getRandomInt(min, max) {
 }
 
 function updateRat() {
-  rat.style = `color: rgb(${r},${g},${b})`;
+  rat.style = `color: rgb(${r},${g},${b});`;
 }
 
 function doChroma() {
