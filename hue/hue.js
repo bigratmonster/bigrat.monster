@@ -18,10 +18,10 @@ function updateRat() {
 function doColor() {
   let h = getRandomInt(-1 * hueMaxChange, 1 * hueMaxChange);
   if (hue > 360) {
-    hue-=360
+    hue-=360;
   }
   else if (hue < 0) {
-    hue+=360
+    hue+=360;
   }
   updateRat();
 }
