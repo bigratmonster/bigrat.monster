@@ -11,11 +11,11 @@ function getRandomInt(min, max) {
 }
 
 function updateRat() {
-  rat.style = `filter: hue-rotate(${h}deg);`;
+  rat.style = `filter: hue-rotate(${hue}deg); -webkit-filter: hue-rotate(${hue}deg);`;
 }
 
 function doChroma() {
-  let hue = getRandomInt(0, 361);
+  hue = getRandomInt(0, 361);
   updateRat();
 }
 
