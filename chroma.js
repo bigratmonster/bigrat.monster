@@ -1,4 +1,4 @@
-const chromaInterval = 10;
+const chromaInterval = 1;
 const chromaMaxChange = 1;
 let rat = document.getElementById("rat");
 let hue = 0;
@@ -17,7 +17,7 @@ function updateRat() {
 
 function doChroma() {
   let h = getRandomInt(-1 * chromaMaxChange, 1 * chromaMaxChange);
-  hue += h;
+  hue += 1;
   if (hue > 360) {
     hue-=360
   }
