@@ -1,6 +1,4 @@
-import './css/style.css';
-import * as THREE from 'three';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
+import * as THREE from 'https://threejs.org/build/three.module.js';
 
 // Setup
 
@@ -33,7 +31,7 @@ const material = new THREE.TextureLoader().load('images/bigrat.png');
 
 function bigratCube() {
   const geometry = new THREE.BoxGeometry(1, 1, 1);
-  const cube = new THREE.Mesh(geometry, new THREE.MeshBasicMaterial({map: material}));
+  const cube = new THREE.Mesh(geometry, new THREE.MeshBasicMaterial({ map: material }));
 
   const [x, y, z] = Array(3)
     .fill()
@@ -51,11 +49,11 @@ function animate() {
   requestAnimationFrame(animate);
 
   document.addEventListener('keydown', onDocumentKeyDown, false);
-  function onDocumentKeyDown(按钮) {
+  function onDocumentKeyDown(event) {
     var moveamountpos = 0.004;
     var moveamountrot = 0.0002;
-    按钮 = 按钮 || window.按钮;
-    var keycode = 按钮.keyCode;
+    event = event || window.event;
+    var keycode = event.keyCode;
     switch (keycode) {
       case 65:
         camera.position.x = camera.position.x - moveamountpos;
