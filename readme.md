@@ -71,12 +71,12 @@ Cant find source owo
 
 ### Rat Equality
 
-*by [angie]*  
+*by [luciel]*  
 epic edit made by undead luciel
 
 ### Rat Rights
 
-*by [angie]*  
+*by [luciel]*  
 :3 made by undead luciel
 
 ### unknown.png
@@ -108,6 +108,10 @@ from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954
 
 *by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
+
+# trollcrazy
+*by [bigratenthusiast]*
+Original creator unknown, if thats you please reach out
 
 ```diff
 https://i.imgur.com/CwQRLGK.mp4
@@ -141,5 +145,5 @@ https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Mon
 
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123
-[angie]: https://github.com/undeadluciel
+[luciel]: https://github.com/undeadluciel
 [bigratenthusiast]: https://github.com/bigratenthusiast
