@@ -19,20 +19,26 @@
     Your browser does not support the audio element.
     </audio>
 
-    <button onclick="playAudio()" type="button">printer</button>
-    <button onclick="pauseAudio()" type="button">printer stop</button> 
+    <button onclick="doAudio()" type="button" id="audiobtn">printer</button>
 
      <!--Javascript 😩-->
     <script>
     var x = document.getElementById("myAudio"); 
+    var y = document.getElementById("audiobtn");
+    let a = false;
 
-    function playAudio() { 
-    x.play(); 
-    } 
+    function doAudio() { 
+      if(a) {
+        x.pause();
+        x.innerHtml="printer";
+        a=false;
+      } else {
+        x.play();
+        x.innerHtml="stop sound";
+        a= true;
+      }
+    }
 
-    function pauseAudio() { 
-    x.pause(); 
-    } 
     </script>
   <body>
     <img src="../media/printer1bigger.png" alt="printer1">
