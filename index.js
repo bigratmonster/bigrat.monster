@@ -69,7 +69,7 @@ app.get('/', (req, res) => {
   res.send('<pre>GET /random?category=[monkey | deepfake | other]</pre><pre>GET /freekr</pre><pre>GET /facts</pre><pre>GET /printer</pre><pre>GET /quiz</pre>')
 })
 
-app.use(function(req, res, next) {
+app.use(function(req, res) {
   res.status(404);
   res.sendFile('404.html', {root: './bigrat.monster'});
 });
