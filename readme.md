@@ -5,7 +5,7 @@ a picture of big rat
 ## Copyright Information
 
 **If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
-I would like to have your approval for us to coutinue to host your image. 
+I would like to have your approval for us to coutinue to host your image.
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
 Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
@@ -13,7 +13,7 @@ Please [contact me][email-copyright] or open an [issue] (select "Copyright issue
 # [merch.bigrat.monster]
 
 The website is owned and operated by [humboldt123].  
-That website is a joke, the merch store has closed (for now).
+That website's prices are a joke, the merch store has closed (for now).
 
 Please [contact him][email-skrub] for any content removals.
 
@@ -21,19 +21,14 @@ Please [contact him][email-skrub] for any content removals.
 
 Please follow the instructions in [usage.md].
 
-
 # [bigrat.monster]: Image Index
 
 ## By the repository owner
 
 ### Big Rat
 
-> Attempts have been made to find the copyright owner, but no result has been found. 
+> Attempts have been made to find the copyright owner, but no result has been found.
 If you are the original author or copyright holder, please [contact me][email-copyright].
-
-### Stop asking for Impact 1.16
-
-Video by [Noisestorm]. Edited by [BadDev].
 
 ## By a contributor
 
@@ -109,11 +104,7 @@ from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954
 *by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
 
-# trollcrazy
-*by [bigratenthusiast]*
-Original creator unknown, if thats you please reach out
-
-```diff
+```
 https://i.imgur.com/CwQRLGK.mp4
 https://tenor.com/view/monkey-boat-driving-speed-gif-16514438
 https://tenor.com/view/monkey-lick-yum-delicious-hot-gif-9727684
@@ -127,6 +118,11 @@ https://media.discordapp.net/attachments/696038770558107679/700191886681309214/S
 https://tenor.com/view/monkey-with-money-happy-withmoney-swag-dollars-more-money-gif-14116367
 https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Monkey_Orange.gif
 ```
+
+### trollcrazy
+
+*by [bigratenthusiast]*
+Original creator unknown, if thats you please reach out
 
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster
