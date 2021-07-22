@@ -15,7 +15,7 @@ Please [contact me][email-copyright] or open an [issue] (select "Copyright issue
 The website is owned and operated by [humboldt123].  
 That website's prices are a joke, the merch store has closed (for now).
 
-Please [contact him][email-skrub] for any content removals.
+Please [contact them][email-skrub] for any content removals.
 
 ## Host this website yourself
 
