@@ -2,27 +2,6 @@
 
 a picture of big rat
 
-## ⚠ End-of-Life
-
-> I have decided to not renew the bigrat.monster domain anymore since I’m tired of managing big rat and its surrounding community.  
->  
-> If you don’t know, bigrat.monster started as a joke a year ago. Originally, the discussions happened between two Minecraft large “hack client” servers, and the big rat LLC server was created after we started selling merch. (Let’s not talk about the merch.) It was a place for people who have discovered the hidden link to chill, talk and occasionally celebrate new merch purchases.  
->  
-> Unfortunately, after the “fall” (termination and archival) of the aforementioned two servers which are closely connected with this chatroom, it has quickly descended from a chill zone to a warzone, which has put a lot of mental burden on me and has impacted my grades in school, which is why I have decided to stop renewing the bigrat.monster domain.  
-> I would like to thank the kind members who have joined with the intent to be chill and not cause drama. I would also like to thank the members who have trusted the server as a place where they can express their struggles safely.
->  
-> My time here has been the best part of my life over the past year, but all good things come to an end, and this is the end of bigrat.monster.  
->  
-> Thank you for supporting bigrat.monster.  
->  
-> Best Regards,  
-> Rico / SoNothing  
-> 30th July 2021  
-
-## Host this website yourself
-
-Please follow the instructions in [usage.md].
-
 ## Copyright Information
 
 **If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
@@ -30,6 +9,10 @@ I would like to have your approval for us to coutinue to host your image.
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
 Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
+
+## Host this website yourself
+
+Please follow the instructions in [usage.md].
 
 # [merch.bigrat.monster]
 

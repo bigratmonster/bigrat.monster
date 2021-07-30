@@ -2,7 +2,7 @@
 
 ## Why does this page exist
 
-`bigrat.monster` is created just for a joke. The domain is going to expire on 2023-07-11
+`bigrat.monster` is created just for a joke. The domain may expire when I forgot about it.
 
 ## Some things you need to know
 
