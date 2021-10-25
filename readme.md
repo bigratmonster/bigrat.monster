@@ -104,6 +104,11 @@ from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954
 *by [humboldt123]*  
 All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
 
+### printer
+
+*by [smokeytube]*  
+inside joke??? Idfk??
+
 ```
 https://i.imgur.com/CwQRLGK.mp4
 https://tenor.com/view/monkey-boat-driving-speed-gif-16514438
