@@ -2,45 +2,43 @@
 <!-- FOR MORE INFORMATION, PLEASE VISIT https://github.com/bigratmonster/bigrat.monster -->
 <html>
   <head>
-    <!-- Thanks metatags.io ❤ -->
-      <!-- Primary Meta Tags -->
-        <title>printer~1</title>
-        <meta name="title" content="printer">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <!-- Open Graph -->
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="printer">
-        <meta property="og:description" content="printer1">
-    <!-- End of metatags.io content -->
-  </head>
-    <!--Audio elements-->
-    <audio id="myAudio">
-    <source src="../media/printer.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-    </audio>
-
-    <button onclick="doAudio()" type="button" id="audiobtn">printer</button>
-
-     <!--Javascript 😩-->
+    <title>printer~1</title>
+    <meta name="title" content="printer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Javascript 😩-->
+    <!--Whatever vegetable wrote the previous JS code should be taken out back and shot-->
     <script>
-    var x = document.getElementById("myAudio"); 
-    var y = document.getElementById("audiobtn");
-    let a = false;
-
-    function doAudio() { 
-      if(a) {
-        x.pause();
-        x.innerHtml="printer";
-        a=false;
-      } else {
-        x.play();
-        x.innerHtml="stop sound";
-        a= true;
-      }
-    }
-
+      // Scripts usually reside in the header. Not between the header and the body. FTFY.
+      const $ = id => document.getElementById(id);
+      let audio, button;
+      let isPlaying = false;
+      window.onload = () {
+        audio = $("printer"); 
+        button = $("audiobtn");
+        button.addEventListener('pointerdown', () => {
+          if (isPlaying) {
+            audio.pause();
+            button.innerHTML = "printer";
+            isPlaying = false;
+          } else {
+            audio.play();
+            button.innerHTML = "stop printing";
+            isPlaying = true;
+          };
+        });
+      };
     </script>
-  <body>
+  </head>
+  <body>    
+    <!--This is so bad, why was this part in the header before???-->
+    <audio id="printer">
+      <source src="../media/printer.mp3" type="audio/mpeg">
+      <!-- I dont like the source tag, but unfortunately it looks like best practice, so it stays. -->
+      Upgrade from Internet Explorer you fucking loser, you're missing out on printer noises
+    </audio>
+    <button id="audiobtn">printer</button>
+  
     <img src="../media/printer1bigger.png" alt="printer1">
   </body>
 </html>
