@@ -16,7 +16,7 @@ everyone hates golang because no generics and you're pretty much at googles merc
 everyone hates swift and kotlin for not bringing anything new to the table. they maybe improve the worst problems (of java and objective-c) a bit, but in the end, they do nothing other languages haven't done better decades ago. pretty much the only revolutionarily good thing swift did was killing off objective-c. in the land of the blind, the one eyed is kind. java devs love kotlin only because at least it's not java.
 everyone hates perl because, duh, that's perl? i thought i cat'ed a binary executable by accident. my speaker starts bleeping when i view the source code of some scripts.
 C#? oh right, let's just forget what microsoft did to us for the last ~30 years. they'll certainly never use their power for evil again! i can't even remember who steve ballmer is anymore.
-typescript? an interpreted language that has to be pre-compiled before use? javascript's heap of dung with glitter and pink ribbons on top?
+everyone hates typescript because it's a shitty solution to a shitty problem. typescript? an interpreted language that has to be pre-compiled before use? javascript's heap of dung with glitter and pink ribbons on top?
 webassembly is not a programming language but everyone still hates it as it finally removes javascripts inherent open-sourcyness from the open web.
 there are a couple of dead languages nobody hates because all people who hated them are also dead. looking at you, pascal/delphi. not basic though, everyone still hates basic - it's already genetic.
 if you want a good language for writing a telephone switch, use erlang or elixir.
@@ -28,3 +28,10 @@ there are some languages that may or may not be better than C/C++, like pony or 
 now there's only one language left, and by principle of exclusion it may be the one that doesn't suck.
 
 it's brainfuck.
+
+But that's not all:
+Because of brainfuck's simple and elegant syntax it is a language that is easy to learn and easy to use. It has the ability to be compiled to any other language's bytecode
+because of its simple and limited syntax. Kotlin, for example, has an endless and clunky syntax. Look at their own documentation, it's abysmal https://kotlinlang.org/docs/reference/grammar.html
+On top of that, transpilers exist that can parse already existing C code into brainfuck.
+Every other language is inferior.
+
