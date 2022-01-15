@@ -29,9 +29,8 @@ now there's only one language left, and by principle of exclusion it may be the 
 
 it's brainfuck.
 
-But that's not all:
-Because of brainfuck's simple and elegant syntax it is a language that is easy to learn and easy to use. It has the ability to be compiled to any other language's bytecode
-because of its simple and limited syntax. Kotlin, for example, has an endless and clunky syntax. Look at their own documentation, it's abysmal https://kotlinlang.org/docs/reference/grammar.html
-On top of that, transpilers exist that can parse already existing C code into brainfuck.
-Every other language is inferior.
-
+but that's not all:
+because of brainfuck's simple and elegant syntax it is a language that is easy to learn and easy to use. it has the ability to be compiled to any other language's bytecode
+because of its simple and limited syntax. kotlin, for example, has an endless and clunky syntax. look at their own documentation, it's abysmal https://kotlinlang.org/docs/reference/grammar.html
+on top of that, transpilers exist that can parse already existing c code into brainfuck.
+the ease-of-use and simplicity of brainfuck makes it an optimal language for both beginners and professionals alike.
