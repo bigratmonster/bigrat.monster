@@ -13,7 +13,7 @@
       const $ = id => document.getElementById(id);
       let audio, button;
       let isPlaying = false;
-      window.onload = () {
+      window.onload = () => {
         audio = $("printer"); 
         button = $("audiobtn");
         button.addEventListener('pointerdown', () => {
