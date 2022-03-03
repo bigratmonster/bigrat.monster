@@ -77,7 +77,7 @@ epic edit made by undead luciel
 *by [humboldt123]*  
 An image of [Brady] saying that (someone that shall not be named)'s opinion doesnt matter on Discord
 
-#### [telegram_video](media/telegram-video.mp4)
+#### [telegram_video](media/telegram_video.mp4)
 
 *by [humboldt123]*  
 a speech of soviet dictator joseph stalin
