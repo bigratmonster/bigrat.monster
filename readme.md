@@ -17,9 +17,14 @@ Please follow the instructions in [usage.md].
 # [merch.bigrat.monster]
 
 The website is owned and operated by [humboldt123].  
-That website's prices are a joke, the merch store has closed (for now).
+That website's prices are a joke.
 
 Please [contact them][email-skrub] for any content removals.
+
+---
+
+ℹ Drop02 of bigrat.monster merch is now out!  
+Check them out at <https://drop02.merch.bigrat.monster/>
 
 # [bigrat.monster]: Image Index
 
@@ -97,52 +102,52 @@ deepfakes by skrub using [first order model]
 *by [humboldt123]*  
 from tenor: <https://tenor.com/view/rat-shower-time-take-abath-get-wet-gif-17954470>
 
-#### [monkeys/](media/monkeys/) Folder
+#### [monkeys/](media/monkeys/) folder
 
 *by [humboldt123]*  
-All of the gifs can be found on Tenor with the exception of the video which is found on Imgur
+All of the gifs can be found on Tenor with the exception of the video, which is found on Imgur
 
-#### [printer](printer/printer.html)
+```
+https://i.imgur.com/CwQRLGK.mp4
+https://tenor.com/view/monkey-boat-driving-speed-gif-16514438/
+https://tenor.com/view/monkey-lick-yum-delicious-hot-gif-9727684/
+https://tenor.com/view/monkey-dabke-gif-3523468/
+https://tenor.com/view/monkey-gif-7222281/
+https://tenor.com/view/monkey-callme-gif-4577639/
+https://tenor.com/view/monkey-haircut-gif-9838558/
+https://tenor.com/view/curious-what-monkey-chimp-walking-gif-10714369/
+https://tenor.com/view/funny-gif-10879973/
+https://media.discordapp.net/attachments/696038770558107679/700191886681309214/ShallowUnhealthyDeermouse-size_restricted.gif
+https://tenor.com/view/monkey-with-money-happy-withmoney-swag-dollars-more-money-gif-14116367/
+https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Monkey_Orange.gif
+```
+
+#### [printer](printer/printer.html)  
+*Includes [printer.mp3](media/printer.mp3), [printer1.png](media/printer1.png), [printer1bigger.png](media/printer1bigger.png)*
 
 *by [smokeytube]*  
 inside joke??? Idfk??
 
-```
-https://i.imgur.com/CwQRLGK.mp4
-https://tenor.com/view/monkey-boat-driving-speed-gif-16514438
-https://tenor.com/view/monkey-lick-yum-delicious-hot-gif-9727684
-https://tenor.com/view/monkey-dabke-gif-3523468
-https://tenor.com/view/monkey-gif-7222281
-https://tenor.com/view/monkey-callme-gif-4577639
-https://tenor.com/view/monkey-haircut-gif-9838558
-https://tenor.com/view/curious-what-monkey-chimp-walking-gif-10714369
-https://tenor.com/view/funny-gif-10879973
-https://media.discordapp.net/attachments/696038770558107679/700191886681309214/ShallowUnhealthyDeermouse-size_restricted.gif
-https://tenor.com/view/monkey-with-money-happy-withmoney-swag-dollars-more-money-gif-14116367
-https://cdn.discordapp.com/attachments/537457343622021131/736039744206798928/Monkey_Orange.gif
-```
-
 #### [trollcrazy](media/trollcrazy.png)
 
-*by [bigratenthusiast]*
+*by [bigratenthusiast]*  
 Original creator unknown, if thats you please reach out
 
 <!-- Links in main parts -->
-[bigrat.monster]: https://bigrat.monster
-[merch.bigrat.monster]: https://merch.bigrat.monster
+[bigrat.monster]: https://bigrat.monster/
+[merch.bigrat.monster]: https://merch.bigrat.monster/
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
 [email-skrub]: mailto:skrub@bigrat.monster
-[issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose
+[issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
 
 <!-- Users in credits -->
-[BadDev]: https://github.com/StijnSimons
-[Brady]: https://github.com/ZeroMemes
-[first order model]: https://github.com/AliaksandrSiarohin/first-order-model
-[Noisestorm]: https://www.youtube.com/user/EoinOBroinMusic
+[Brady]: https://github.com/ZeroMemes/
+[first order model]: https://github.com/AliaksandrSiarohin/first-order-model/
 
 <!-- Contributors -->
-[humboldt123]: https://github.com/humboldt123
-[luciel]: https://github.com/undeadluciel
-[bigratenthusiast]: https://github.com/bigratenthusiast
+[humboldt123]: https://github.com/humboldt123/
+[luciel]: https://github.com/undeadluciel/
+[bigratenthusiast]: https://github.com/bigratenthusiast/
+[smokeytube]: https://github.com/smokeytube/

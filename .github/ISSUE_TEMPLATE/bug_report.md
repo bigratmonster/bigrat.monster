@@ -3,7 +3,7 @@ name: Bug report
 about: "Help me squash bugs \U0001F41B"
 title: ''
 labels: bug
-assignees: 'ricoip'
+assignees: 'SoNothingMC'
 
 ---
 
