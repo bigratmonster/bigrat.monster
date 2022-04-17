@@ -1,6 +1,6 @@
 everyone hates java because you need a huge and clumsy jvm to run it, abysmal startup times, verbosity and because programming in java mostly means working on the most boring business logic legacy codebases written by indian ex-farmers who themselves despise their job almost as much as starving to death. also, you have to sell your soul to the devil, who goes by the name of larry ellison.
 
-but then
+but then...
 
 everyone hates C because it's the ultimate footgun. it's physically impossible to write correct code.
 same for C++ except for templating, which is even worse. forgot a semicolon? 111 errors.
@@ -11,9 +11,9 @@ everyone hates ruby because it's too fucking slow and too much dark magic going 
 everyone hates haskell because it's not really usable in the real world (strictly academia only) and either way, nobody really gets what a goddamn monad is. you could specialize in haskell and starve to death in a world where software developers are the most precious resource.
 at least it's not lisp though. (((((help)))))
 everyone hates rust because it's the oh so cool new thing to do and it's so much better, the ultimate language to rule them all and every last piece of software absolutely must be rewritten in rust but, honestly, the borrow checker keeps me from getting anything done. also compile times duh.
-everyone hates D because ... wait, nobody hates D because nobody uses it. also, why settle on D if you could use rust? D is for people who can't escape the sunk cost fallacy.
+everyone hates D because ... wait, nobody hates D because it has a readable C#-like syntax with the speed of C++. No one hates D, and most people can agree that any project can be made with it.
 everyone hates golang because no generics and you're pretty much at googles mercy if you specialize in it, and we've seen how well that worked out for android devs.
-everyone hates swift and kotlin for not bringing anything new to the table. they maybe improve the worst problems (of java and objective-c) a bit, but in the end, they do nothing other languages haven't done better decades ago. pretty much the only revolutionarily good thing swift did was killing off objective-c. in the land of the blind, the one eyed is kind. java devs love kotlin only because at least it's not java.
+everyone hates swift and kotlin for not bringing anything new to the table. they maybe improve the worst problems (of java and objective-c) a bit, but in the end, they do nothing other languages haven't done better decades ago. pretty much the only revolutionarily good thing swift did was killing off objective-c. in the land of the blind, the one eyed is kind. java devs love kotlin only because at least it's not java. 
 everyone hates perl because, duh, that's perl? i thought i cat'ed a binary executable by accident. my speaker starts bleeping when i view the source code of some scripts.
 C#? oh right, let's just forget what microsoft did to us for the last ~30 years. they'll certainly never use their power for evil again! i can't even remember who steve ballmer is anymore.
 typescript? an interpreted language that has to be pre-compiled before use? javascript's heap of dung with glitter and pink ribbons on top?
