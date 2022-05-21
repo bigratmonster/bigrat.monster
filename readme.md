@@ -141,7 +141,7 @@ Original creator unknown, if thats you please reach out
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
-[media-dir]: https://github.com/bigratmonster/bigrat.monster/tree/main/media/
+[media-dir]: ./media
 [license]: ./license.md
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
