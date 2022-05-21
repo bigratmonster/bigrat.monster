@@ -10,6 +10,8 @@ I would like to have your approval for us to coutinue to host your image.
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
 Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
 
+For any other file not under the [/media/][media-dir] directory, they are licensed under the [MIT License][license].
+
 ### Host this website yourself
 
 Please follow the instructions in [usage.md].
@@ -139,6 +141,8 @@ Original creator unknown, if thats you please reach out
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
+[media-dir]: https://github.com/bigratmonster/bigrat.monster/tree/main/media/
+[license]: ./license.md
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
 
