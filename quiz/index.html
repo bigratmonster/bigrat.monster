@@ -1,103 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-  <meta charset="utf-8">  
-  <!-- Main Meta Tags -->
   <head>
     <title>Bigrat Quiz</title>
-    <meta content="Bigrat Quiz" name="title">
-    <meta content="Take the bigrat quiz." name="description">
-    <meta content="#8a5ce0" name="theme-color">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="/assets/images/miscassets/lofialbumart.jpg" property="image">
-
-    <!-- Open Graph Meta Tags -->
-    <meta content="website" property="og:type">
-    <meta content="https://bigrat.monster/quiz" property="og:url">
-    <meta content="Bigrat Quiz" property="og:title">
-
-    <style>
-        @font-face {
-            font-family: HelveticaRemote;
-            src: url(helvetica.ttf);
-        }
-
-        body {
-            font-family: Helvetica, HelveticaRemote, Arial, sans-serif;
-            line-height: 1.5;
-        }
-
-        .question-tab {
-            margin-left: 5%;
-            margin-right: 40%;
-         }
-         .question-question {
-            margin-bottom: 0.4%;
-            margin-left: 1%;
-         }
-         .question-form {
-             margin-left: 6%;
-         }
-         .question-button {
-            margin-left: 50%;
-         }
-         
-    </style>
+    <script src="/quiz/quiz.js" defer></script>
+    <link rel="stylesheet" href="/quiz/questions.css" />
+    
+    <meta charset="utf-8">
+    <meta name="title" content="Bigrat Quiz">
+    <meta name="description" content="Take the bigrat quiz.">
+    <meta name="theme-color" content="#8a5ce0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="image" content="/assets/images/miscassets/lofialbumart.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://bigrat.monster/quiz">
+    <meta property="og:title" content="Bigrat Quiz">
   </head>
+  
   <body>
-        <div class="question-tab" id="question-tab">
-            <p>Take the Bigrat test. This test will measure your personality then place it on a scale.</p>
-            <button class="question-button" onclick="nextQuestion();">Start</button>
-        </div>  
-
-    <script>
-        questionTemplate = '<p class="question-question">{}</p><div><form class="question-form"><input type="radio" name="option" value="0"/>{}<br><input type="radio" name="option" value="1"/>{}<br><input type="radio" name="option" value="2"/>{}<br></form></div><button class="question-button" onclick="nextQuestion();">Next</button>';
-        function format(text, arrayList) {
-            arrayList.forEach(f => {
-                text = text.replace("{}", f);
-            })
-            return text;
-        }
-        let question = -1;
-        let questions = [
-            "Hip-Hop is a good music genre.",
-            "Social media is a good thing.",
-            "Pink is a pretty color",
-            "The following sentence is crazy:<br>They put me in a round room. A rubber room! Told me to sit in the corner. They put me in a rubber room with rats.",
-
-
-            "If economic globalization is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
-            "There is now a worrying fusion of information and entertainment.",
-            "“from each according to his ability, to each according to his need” is a fundamentally good idea.",
-            "All authority should be questioned.",
-
-            "Bigrat is symbolism for something deeper.",
-            "Javascript is a fantastic programming language.",
-            "Cereal is good.",
-
-            "this image is unsettling <br><img src=\"https://cdn.discordapp.com/attachments/689287762335367255/775898066074992650/s7f1gobxlkm51.jpg\">",
-            "large?<br><img src=\"https://bigrat.monster/media/smaller_bigrat.png\">"
-        ]
-
-        function nextQuestion() {
-            if (!(questions.length-1-question)) {
-                    let z = new Date();
-                    let axae = [
-                      z.getHours(),
-                      z.getDate(),
-                      z.getYear()/20,
-                      z.getMilliseconds()%18
-                    ]
-                    let placement = `Entj Axis: ${axae[3]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Ratl Axis: ${axae[1]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Trll Axis: ${axae[2]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>Msic Axis: ${axae[1]* Math.floor((Math.random() * 3) + 1) + Math.floor((Math.random() * 6) + 1)-3}pt<br>`
-                    document.getElementById("question-tab").innerHTML = "Lets see how you placed...<br><br><br>" + placement;                    
-              
-            } else {
-                question++;
-                document.getElementById("question-tab").innerHTML = format(questionTemplate, [questions[question], "Agree", "Neutral/Unsure", "Disagree"]);
-            }
-        }
-
-            
-    </script>
+    <div class="question-tab" id="question-tab">
+      <p>Take the Bigrat test. This test will measure your personality then place it on a scale.</p>
+      <button class="question-button" onclick="nextQuestion();">Start</button>
+    </div>  
   </body>
 </html>
 
