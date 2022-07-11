@@ -1,3 +1,5 @@
+// bigratNOTE: This file loads external content.
+
 let questionTemplate = '<p class="question-question">{}</p><div><form class="question-form"><input type="radio" name="option" value="0"/>Agree<br><input type="radio" name="option" value="1"/>Neutral/Unsure<br><input type="radio" name="option" value="2"/>Disagree<br></form></div><button class="question-button" onclick="nextQuestion();">Next</button>';
 
 // I don't like how you're handling adding new HTML to the document, but for now it's OK.
@@ -16,8 +18,8 @@ const questions = [
     "Bigrat is symbolism for something deeper.",
     "Javascript is a fantastic programming language.",
     "Cereal is good.",
-    "this image is unsettling <br><img src=\"https://cdn.discordapp.com/attachments/689287762335367255/775898066074992650/s7f1gobxlkm51.jpg\">",
-    "large?<br><img src=\"https://bigrat.monster/media/smaller_bigrat.png\">"
+    "this image is unsettling <br><img src=\"https://cdn.discordapp.com/attachments/689287762335367255/775898066074992650/s7f1gobxlkm51.jpg\" alt=\"An emote of a face.\">",
+    "large?<br><img src=\"../media/bigrat.png\" alt=\"A big rat sitting on a person's leg.\">"
 ];
 
 function nextQuestion() {

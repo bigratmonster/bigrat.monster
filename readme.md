@@ -2,15 +2,15 @@
 
 a picture of big rat
 
-### Copyright Information
-
-**If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
-I would like to have your approval for us to coutinue to host your image.
+## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
 Please [contact me][email-copyright] or open an [issue] (select "Copyright issue" when choosing templates) and I'll sort this out.
 
-### Host this website yourself
+**If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
+We would like to have your approval for us to continue to host your image.
+
+## Self-hosting
 
 Please follow the instructions in [usage.md].
 
@@ -31,10 +31,12 @@ Check them out at <https://drop02.merch.bigrat.monster/>
 ## By the repository owner
 
 #### [Big Rat](media/bigrat.png)
+
 > Attempts have been made to find the copyright owner, but no result has been found.
 If you are the original author or copyright holder, please [contact me][email-copyright].
 
 ## By a contributor
+
 *The description of the images below are written by the uploader.*
 
 #### [Rat Equality](media/ratequality.png)
@@ -57,8 +59,8 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 *by [bigratenthusiast]*
 An image of big chungus with dreams face
 
-
 #### [printer](printer/printer.html)  
+
 *Includes [printer.mp3](media/printer.mp3), [printer1.png](media/printer1.png), [printer1bigger.png](media/printer1bigger.png)*
 
 *by [smokeytube]*  
@@ -68,6 +70,16 @@ inside joke??? Idfk??
 
 *by [bigratenthusiast]*  
 Original creator unknown, if thats you please reach out
+
+#### [Unpleasant Gradient](media/unpleasantgradient.png)
+
+*by [smokeytube]*  
+An unpleasant gradient
+
+#### [Cheese](media/cartoon-cheese-3.png)
+
+*by [ayunami2000]*  
+A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster/
@@ -87,3 +99,4 @@ Original creator unknown, if thats you please reach out
 [luciel]: https://github.com/undeadluciel/
 [bigratenthusiast]: https://github.com/bigratenthusiast/
 [smokeytube]: https://github.com/smokeytube/
+[ayunami2000]: https://github.com/ayunami2000/

@@ -1,9 +1,5 @@
-@font-face {
-  font-family: HelveticaRemote;
-  src: url(helvetica.ttf);
-}
 body {
-  font-family: Helvetica, HelveticaRemote, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 .question-tab {
