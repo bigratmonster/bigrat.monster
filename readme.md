@@ -84,7 +84,7 @@ A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 
 #### [perfect](media/perfect.png)
 
-*by [pacdv]*
+*by [pacdv]*  
 big rat is mathematically perfect
 
 <!-- Links in main parts -->
