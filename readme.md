@@ -82,6 +82,11 @@ An unpleasant gradient
 *by [ayunami2000]*  
 A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 
+#### [perfect](media/perfect.png)
+
+*by [pacdv]*
+big rat is mathematically perfect
+
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster/
 [merch.bigrat.monster]: https://merch.bigrat.monster/
@@ -103,3 +108,4 @@ A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 [bigratenthusiast]: https://github.com/bigratenthusiast/
 [smokeytube]: https://github.com/smokeytube/
 [ayunami2000]: https://github.com/ayunami2000/
+[pacdv]: https://github.com/pacdv/
