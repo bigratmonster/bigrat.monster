@@ -1,0 +1,18 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+.question-tab {
+  margin-left: 5%;
+  margin-right: 40%;
+}
+.question-question {
+  margin-bottom: 0.4%;
+  margin-left: 1%;
+}
+.question-form {
+  margin-left: 6%;
+}
+.question-button {
+  margin-left: 50%;
+}
