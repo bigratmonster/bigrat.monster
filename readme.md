@@ -58,13 +58,12 @@ An image of [Brady] saying that (someone that shall not be named)'s opinion does
 
 #### [dream_chungus](media/dream_chungus.png)
 
-*by [bigratenthusiast]*
+*by [bigratenthusiast]*  
 An image of big chungus with dreams face
 
 #### [printer](printer/printer.html)  
 
 *Includes [printer.mp3](media/printer.mp3), [printer1.png](media/printer1.png), [printer1bigger.png](media/printer1bigger.png)*
-
 *by [smokeytube]*  
 inside joke??? Idfk??
 
