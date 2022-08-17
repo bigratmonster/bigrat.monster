@@ -10,6 +10,8 @@ Please [contact me][email-copyright] or open an [issue] (select "Copyright issue
 **If you are the owner or the copyright holder of the [big rat] image, please [contact me][email-copyright].**  
 We would like to have your approval for us to continue to host your image.
 
+For any other file not under the [/media/][media-dir] directory, they are licensed under the [MIT License][license].
+
 ## Self-hosting
 
 Please follow the instructions in [usage.md].
@@ -87,6 +89,8 @@ A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 [big rat]: https://bigrat.monster/media/bigrat.png
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
+[media-dir]: ./media
+[license]: ./license.md
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
 
