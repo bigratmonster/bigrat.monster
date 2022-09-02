@@ -6,7 +6,7 @@ a picture of big rat
 
 All bigrat.monster sites are now up (pending HTTPS certificates provision).
 
-However, **bigrat.monster Email Redirection Service is still now up now.**  
+However, **bigrat.monster Email Redirection Service is still not up now.**  
 I am currently investigating.
 
 ---
