@@ -2,40 +2,6 @@
 
 a picture of big rat
 
-## 🚧 Upcoming Maintenance
-
-All bigrat.monster services will be down starting 2022-09-02 at 08:00 GMT, for upwards of 3 hours.  
-
-This is due to a change in infrastructure providers.
-
-Detailed schedule:  
-:x: Service Down  
-:orange_square: Service Up Temporarily  
-:white_check_mark: Service Restored  
-
-**08:00 GMT**  
-:x: bigrat.pages.dev, bigrat.monster, www.bigrat.monster  
-:x: bigrat-merch-drop02.pages.dev, drop02.merch.bigrat.monster  
-:x: bigrat-apr1-goodbye.pages.dev, goodbye.bigrat.monster  
-
-**08:05 GMT**  
-:orange_square: bigrat.monster, www.bigrat.monster  
-:orange_square: drop02.merch.bigrat.monster  
-:orange_square: goodbye.bigrat.monster  
-
-**08:10 GMT**  
-:x: \*.bigrat.monster/\*  
-:x: bigrat.monster Email Redirection Service  
-
-**08:13 GMT**  
-:white_check_mark: bigrat.monster Email Redirection Service  
-
-**around 10:00 GMT**  
-:white_check_mark: All services restored  
-:information_source: To access bigrat.monster, you would need to restart your computer (or flush your DNS cache) and perform a force refresh (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>) on the site itself. Otherwise, you will encounter a Server Not Found error or a HTTPS certificate error.
-
----
-
 ## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
@@ -134,6 +100,7 @@ big rat is mathematically perfect
 
 <!-- Users in credits -->
 [Brady]: https://github.com/ZeroMemes/
+[first order model]: https://github.com/AliaksandrSiarohin/first-order-model/
 
 <!-- Contributors -->
 [humboldt123]: https://github.com/humboldt123/
