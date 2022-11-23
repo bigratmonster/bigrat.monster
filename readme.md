@@ -2,12 +2,6 @@
 
 a picture of big rat
 
-## 🚧 2022-09-02 Maintenance
-
-All bigrat.monster sites are now up (pending HTTPS certificates provision).
-
----
-
 ## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
