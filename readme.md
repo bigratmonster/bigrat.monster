@@ -3,7 +3,7 @@
 a picture of big rat
 
 ## 🚨 So, I want to shut this project down. Want to leave a comment?
-https://github.com/bigratmonster/bigrat.monster/discussions/72
+Please view discussion [#72](https://github.com/bigratmonster/bigrat.monster/discussions/72).
 
 ## Copyright Information
 
