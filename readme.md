@@ -2,6 +2,9 @@
 
 a picture of big rat
 
+## 🚨 So, I want to shut this project down. Want to leave a comment?
+https://github.com/bigratmonster/bigrat.monster/discussions/72
+
 ## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
