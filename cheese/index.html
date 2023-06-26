@@ -25,7 +25,11 @@
     <div>
       <h1>Cheese</h1>
       <!-- cheese from https://www.onlygfx.com/cartoon-cheese-png-transparent/ -->
-      <img src="../media/cartoon-cheese-3.png" alt="A block of cheese.">
+      <picture>
+       <source srcset="../media/cartoon-cheese-3.jxl" type="image/jxl">
+       <source srcset="../media/cartoon-cheese-3.webp" type="image/webp">
+       <img src="../media/cartoon-cheese-3.png" alt="A block of cheese.">
+      </picture>
       <p>pleaes do not the cheese</p>
       <button onclick="document.querySelector('p').innerHTML=' YOU THE CHEESE!! WTF  BRO';this.outerHTML='';">the cheese</button>
     </div>
