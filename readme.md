@@ -35,7 +35,7 @@ Check them out at <https://drop02.merch.bigrat.monster/>
 
 ## By the repository owner
 
-#### [Big Rat](media/bigrat.png)
+#### [Big Rat](media/bigrat.jpg)
 
 > Attempts have been made to find the copyright owner, but no result has been found.
 If you are the original author or copyright holder, please [contact me][email-copyright].
@@ -93,7 +93,7 @@ big rat is mathematically perfect
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster/
 [merch.bigrat.monster]: https://merch.bigrat.monster/
-[big rat]: https://bigrat.monster/media/bigrat.png
+[big rat]: https://bigrat.monster/media/bigrat.jpg
 [usage.md]: usage.md
 [email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
 [media-dir]: ./media
