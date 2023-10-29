@@ -19,7 +19,7 @@ const questions = [
     "Javascript is a fantastic programming language.",
     "Cereal is good.",
     "this image is unsettling <br><img src=\"https://cdn.discordapp.com/attachments/689287762335367255/775898066074992650/s7f1gobxlkm51.jpg\" alt=\"An emote of a face.\">",
-    "large?<br><img src=\"../media/bigrat.png\" alt=\"A big rat sitting on a person's leg.\">"
+    "large?<br><img src=\"../media/bigrat.jpg\" alt=\"A big rat sitting on a person's leg.\">"
 ];
 
 function nextQuestion() {
