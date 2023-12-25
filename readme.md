@@ -2,8 +2,17 @@
 
 a picture of big rat
 
-## 🚨 So, I want to shut this project down (or at least freeze it). Want to leave a comment?
-Please view discussion [#72](https://github.com/bigratmonster/bigrat.monster/discussions/72).
+## ⚠ Upcoming Maintenance on 2nd January, 2024
+
+As a member of the community has suggested to me, bigrat.monster will be moving its nameservers back to Cloudflare to collect audience data.  
+This change will last for at least a month as I re-evaluate the path that bigrat.monster will take in the future.
+
+Expect a downtime of around 2-3 hours as I migrate DNS information and for the DNS servers to propagate the new information out worldwide.  
+To prevent missed emails for bigrat.monster Email Redirect users, this process will be done as quickly as possible.
+
+Thank you for your patience in these few months as I try to figure this stuff out.  
+~ SoNothing
+
 
 ## Copyright Information
 
@@ -15,16 +24,13 @@ We would like to have your approval for us to continue to host your image.
 
 For any other file not under the [/media/][media-dir] directory, they are licensed under the [MIT License][license].
 
-## Self-hosting
-
-Please follow the instructions in [usage.md].
 
 # [merch.bigrat.monster]
 
 The website is owned and operated by [humboldt123].  
-That website's prices are a joke.
+Please note that website's prices are a joke.
 
-Please [contact them][email-skrub] for any content removals.
+You can [contact them][email-skrub] for any content removals.
 
 ---
 
