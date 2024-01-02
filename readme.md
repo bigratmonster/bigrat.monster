@@ -2,13 +2,10 @@
 
 a picture of big rat
 
-## ⚠ Upcoming Maintenance on 2nd January, 2024
+## Collection of Audience Statistics
 
 As a member of the community has suggested to me, bigrat.monster will be moving its nameservers back to Cloudflare to collect audience data.  
 This change will last for at least a month as I re-evaluate the path that bigrat.monster will take in the future.
-
-Expect a downtime of around 2-3 hours as I migrate DNS information and for the DNS servers to propagate the new information out worldwide.  
-To prevent missed emails for bigrat.monster Email Redirect users, this process will be done as quickly as possible.
 
 Thank you for your patience in these few months as I try to figure this stuff out.  
 ~ SoNothing
