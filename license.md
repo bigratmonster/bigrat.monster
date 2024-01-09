@@ -1,6 +1,5 @@
-> **Warning**  
-> The following license text applies to:  
-> All files, directories and subdirectories,  
+> [!WARNING]  
+> The following license text applies to all files, directories and subdirectories…  
 > **EXCEPT** any file, directory or subdirectory under the /media/ directory.
 
 ```
