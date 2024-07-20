@@ -1,0 +1,11 @@
+Model Information:
+* title:	big rat
+* source:	https://sketchfab.com/3d-models/big-rat-fc69b6b7a7af4d11bcf48fe432370052
+* author:	Scriptifer (https://sketchfab.com/scriptifer)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+
+Note:
+Modified to not require the KHR_materials_pbrSpecularGlossiness extension.
