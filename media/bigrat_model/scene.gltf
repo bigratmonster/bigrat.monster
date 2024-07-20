@@ -1,0 +1,278 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16141,
+      "max": [
+        3.5428409576416016,
+        3.951849937438965,
+        2.114345073699951
+      ],
+      "min": [
+        -4.887386798858643,
+        -2.5247879028320313,
+        -2.037972927093506
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 193692,
+      "componentType": 5126,
+      "count": 16141,
+      "max": [
+        0.9999783039093018,
+        0.9999998807907104,
+        0.99998939037323
+      ],
+      "min": [
+        -0.9999915361404419,
+        -0.9999960660934448,
+        -0.9999700784683228
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16141,
+      "max": [
+        0.8271128535270691,
+        0.5834745764732361
+      ],
+      "min": [
+        0.0009765790309756994,
+        0.000976573210209608
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 129128,
+      "componentType": 5126,
+      "count": 16141,
+      "max": [
+        0.8271128535270691,
+        0.5834745764732361
+      ],
+      "min": [
+        0.0009765790309756994,
+        0.000976573210209608
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 258256,
+      "componentType": 5126,
+      "count": 16141,
+      "max": [
+        0.8271128535270691,
+        0.5834745764732361
+      ],
+      "min": [
+        0.0009765790309756994,
+        0.000976573210209608
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 66810,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Scriptifer (https://sketchfab.com/scriptifer)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/big-rat-fc69b6b7a7af4d11bcf48fe432370052",
+      "title": "big rat"
+    },
+    "generator": "Sketchfab-15.82.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 267240,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 387384,
+      "byteOffset": 267240,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 387384,
+      "byteOffset": 654624,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1042008,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
+      },
+      "name": "material"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.012599852867424488,
+        0.05313854664564155,
+        -0.9985076785087585,
+        0.0,
+        -0.9730299115180969,
+        -0.2293757200241089,
+        -0.024485267698764853,
+        0.0,
+        -0.23033452033996582,
+        0.9718863368034363,
+        0.04881529882550261,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "root_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.06054875338690792,
+        -0.00473781210905362,
+        -4.521575664829097e-10,
+        0.0,
+        0.00473781210905362,
+        0.060548753386907926,
+        -1.7663191953316945e-11,
+        0.0,
+        4.521577051550574e-10,
+        -1.7663197370439083e-11,
+        0.0607338510453701,
+        0.0,
+        0.03732478246092796,
+        -0.04638848826289177,
+        0.2536807656288147,
+        1.0
+      ],
+      "name": "node_id3_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
