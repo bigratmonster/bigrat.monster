@@ -4,6 +4,7 @@ import * as THREE from 'three';
 import Stats from 'three/addons/libs/stats.module.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 
 // Uncomment appendChild function call to get fps monitor (click the monitor to find other monitors)
 const stats = new Stats();
@@ -42,8 +43,14 @@ const ratScale = 75;
 
 // Load GLTF model
 const loader = new GLTFLoader();
+
+// Provide a DRACOLoader instance to decode compressed mesh data
+const dracoLoader = new DRACOLoader();
+dracoLoader.setDecoderPath('https://www.gstatic.com/draco/v1/decoders/')
+loader.setDRACOLoader( dracoLoader );
+
 loader.load(
-    '../media/bigrat_model/scene.gltf',
+    '../media/bigrat_model.glb',
     (gltf) => {
         const model = gltf.scene;
 
@@ -79,9 +86,6 @@ controls.addEventListener('start', () => {
 // Main animation loop
 let clock = new THREE.Clock();
 function animate() {
-    // Begin performance profiling
-    stats.begin();
-
     // Tell the browser you want to animate
     requestAnimationFrame(animate);
 
@@ -102,8 +106,8 @@ function animate() {
     // Render the scene
     renderer.render(scene, camera);
 
-    // End performance profiling
-    stats.end();
+    // Update performance profiling
+    stats.update();
 }
 
 animate();
