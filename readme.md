@@ -14,7 +14,7 @@ For any other file not under the [/media/][media-dir] directory, they are licens
 
 ## NEW: Bluesky account
 
-Finally, bigrat.monster has an official social media account on Bluesky! [@bigrat.monster][bsky]
+Finally, bigrat.monster has an official social media account on Bluesky! [@bigrat.monster][bsky]  
 This account will be used for operational updates and announcements that were previously sent in the (now inactive) Discord server.
 
 # NEW: [merch.bigrat.monster] Drop03
