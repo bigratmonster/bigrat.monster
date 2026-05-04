@@ -2,15 +2,6 @@
 
 a picture of big rat
 
-## Collection of Audience Statistics
-
-As a member of the community has suggested to me, bigrat.monster will be moving its nameservers back to Cloudflare to collect audience data.  
-This change will last for at least a month as I re-evaluate the path that bigrat.monster will take in the future.
-
-Thank you for your patience in these few months as I try to figure this stuff out.  
-~ SoNothing
-
-
 ## Copyright Information
 
 If you would like to remove content due to copyright reasons, please don't submit a DMCA 😢  
@@ -21,18 +12,17 @@ We would like to have your approval for us to continue to host your image.
 
 For any other file not under the [/media/][media-dir] directory, they are licensed under the [MIT License][license].
 
+## NEW: Bluesky account
 
-# [merch.bigrat.monster]
+Finally, bigrat.monster has an official social media account on Bluesky! [@bigrat.monster][bsky]
+This account will be used for operational updates and announcements that were previously sent in the (now inactive) Discord server.
+
+# NEW: [merch.bigrat.monster] Drop03
+
+Drop03 of bigrat.monster merch, designed by Fistbowl, is now out!
 
 The website is owned and operated by [humboldt123].  
-Please note that website's prices are a joke.
-
-You can [contact them][email-skrub] for any content removals.
-
----
-
-ℹ Drop02 of bigrat.monster merch is now out!  
-Check them out at <https://drop02.merch.bigrat.monster/>
+Please [contact them][email-skrub] for any content removals.
 
 # [bigrat.monster]: Image Index
 
@@ -45,7 +35,7 @@ If you are the original author or copyright holder, please [contact me][email-co
 
 ## By a contributor
 
-*The description of the images below are written by the uploader.*
+*The descriptions of the images below are written by the uploader.*
 
 #### [Rat Equality](media/ratequality.png)
 
@@ -96,11 +86,12 @@ big rat is mathematically perfect
 <!-- Links in main parts -->
 [bigrat.monster]: https://bigrat.monster/
 [merch.bigrat.monster]: https://merch.bigrat.monster/
-[big rat]: https://bigrat.monster/media/bigrat.jpg
+[big rat]: https://bigrat.monster/media/bigrat.jxl
 [usage.md]: usage.md
-[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
+[email-copyright]: mailto:sonothing@bigrat.monster?subject=%5Bbigrat.monster%5D%20Copyright
 [media-dir]: ./media
 [license]: ./license.md
+[bsky]: https://bsky.app/profile/did:plc:wi7o3nvlmmwl4p7tkqkwcez6
 [email-skrub]: mailto:skrub@bigrat.monster
 [issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
 
